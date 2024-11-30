@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Johnoduo/&show"/>
-<img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnoduo/&layout=compact"/>
+<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Johnoduo /&show"/>
+<img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnoduo /&layout=compact"/>
 
 - 🔭 I’m currently working on ...
 
